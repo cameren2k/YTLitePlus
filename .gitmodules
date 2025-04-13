@@ -65,3 +65,15 @@
 [submodule "Tweaks/YouSpeed"]
 	path = Tweaks/YouSpeed
 	url = https://github.com/PoomSmart/YouSpeed
+[submodule "Tweaks/YTVideoErrorAlert"]
+	path = Tweaks/YTVideoErrorAlert
+	url = https://github.com/PoomSmart/YTVideoErrorAlert
+[submodule "Tweaks/YouChooseQuality"]
+	path = Tweaks/YouChooseQuality
+	url = https://github.com/PoomSmart/YouChooseQuality
+[submodule "Tweaks/YTIcons"]
+	path = Tweaks/YTIcons
+	url = https://github.com/PoomSmart/YTIcons
+[submodule "Tweaks/YouSlider"]
+	path = Tweaks/YouSlider
+	url = https://github.com/PoomSmart/YouSlider
